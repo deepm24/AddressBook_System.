@@ -1,4 +1,7 @@
 package org.example;
+
+import java.util.Scanner;
+
 public class Contact
 {
     private String FIRST_NAME;
@@ -101,4 +104,5 @@ public class Contact
                 ", EMAIL_ID='" + EMAIL_ID + '\'' +
                 '}';
     }
-}
+
+    }
